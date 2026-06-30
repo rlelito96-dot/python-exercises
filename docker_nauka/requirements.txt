@@ -1,0 +1,25 @@
+# FastAPI
+fastapi
+uvicorn
+
+# PostgreSQL & ORM
+pydantic
+sqlalchemy
+psycopg2-binary
+
+# Async DB
+asyncpg
+databases
+
+# Load .env
+python-dotenv
+
+# JWT
+passlib[bcrypt]
+PyJWT
+
+# Testing & async tests
+pytest
+pytest-asyncio
+httpx
+flake8
